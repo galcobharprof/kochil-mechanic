@@ -232,7 +232,8 @@ html, body, #app {
 #receipt-notepad {
     position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
     display: flex; justify-content: center; align-items: center;
-    background: rgba(0, 0, 0, 0.8); backdrop-filter: blur(8px); z-index: 1000;
+    background: transparent !important; /* Force parent to be transparent */
+    z-index: 1000;
 }
 .notepad-paper {
     width: 420px; min-height: 550px; background: #fff; padding: 40px 40px 40px 70px;
