@@ -1,4 +1,4 @@
-# kochil Mechanic - Modular Tactical UI
+# Kochill Mechanic - Modular Tactical UI
 
 Premium Mechanic Job resource for Qbox framework featuring a sleek Modular Tactical UI, high-contrast aesthetics, and an advanced modification workflow.
 
